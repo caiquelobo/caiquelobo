@@ -1,4 +1,4 @@
-# Olá, eu sou o Caique! 👋
+# Olá, me chamo Caique! 👋
 
 🚀 **Desenvolvedor Back-end em formação** | Graduando em Engenharia de Software.
 
